@@ -1,0 +1,1 @@
+IDRViewer.config = {"pagecount":8,"title":"matter","author":"krishna2","fileName":"broucher.pdf","bounds":[[953,1213],[953,1213],[953,1213],[953,1213],[953,1213],[953,1213],[953,1213],[953,1213]],"bookmarks":[],"thumbnailType":"jpg","pageType":"html","pageLabels":[]};
